@@ -1,1 +1,1 @@
-C - Simple Shell. A simple UNIX command interpreter.
+Alx simple_shell task
